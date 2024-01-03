@@ -8,6 +8,7 @@ body {
 
 canvas {
 	display: block;
+	overflow: hidden;
 }
 
 #particles-js {
@@ -18,4 +19,5 @@ canvas {
 	background-size: cover;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
+	overflow: hidden;
 }
